@@ -1,0 +1,11 @@
+/* comentarios */
+body {
+    background-color: f000f0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+div {
+    background-color: bisque;
+}
